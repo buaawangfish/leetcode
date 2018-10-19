@@ -2,3 +2,5 @@
 *vcxproj.filters
 Debug/
 x64/
+.vscode/
+a.exe
